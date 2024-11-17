@@ -1,0 +1,15 @@
+com\example\ProyectoMbappe\exception\PaginaNotFoundException.class
+com\example\ProyectoMbappe\service\PaginaServiceImpl.class
+com\example\ProyectoMbappe\entity\Pagina.class
+com\example\ProyectoMbappe\entity\User.class
+com\example\ProyectoMbappe\controller\PaginaController.class
+com\example\ProyectoMbappe\controller\UserController.class
+com\example\ProyectoMbappe\service\UserService.class
+com\example\ProyectoMbappe\repository\PaginaRepository.class
+com\example\ProyectoMbappe\configuration\CorsConfig.class
+com\example\ProyectoMbappe\ProyectoMbappeApplication.class
+com\example\ProyectoMbappe\repository\UserRepository.class
+com\example\ProyectoMbappe\exception\PaginaNotFoundExceptionAdvice.class
+com\example\ProyectoMbappe\service\UserServiceImpl.class
+com\example\ProyectoMbappe\configuration\CorsConfig$1.class
+com\example\ProyectoMbappe\service\PaginaService.class
